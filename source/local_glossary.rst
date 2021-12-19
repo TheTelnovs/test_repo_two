@@ -17,4 +17,12 @@ GLOSSARY
       A visualization technic used in medicine to visualize
       organs and tissues based on properties of atoms 
       making up organs. 
-      
+      Magnetic resonance imaging is a medical imaging technique 
+      used in radiology to form pictures of the anatomy 
+      and the physiological processes of the body. 
+
+      MRI scanners use strong magnetic fields, magnetic field gradients, 
+      and radio waves to generate images of the organs in the body.
+ 
+
+
