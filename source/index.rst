@@ -10,11 +10,10 @@ Welcome to Test Project's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   section_one
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
