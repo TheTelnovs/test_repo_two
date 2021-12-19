@@ -12,6 +12,13 @@ GLOSSARY
       At the same time, it has been shown to boost
       team spirit as is acknoledged to be usefull with teams. 
 
+      In behavioral geography, a mental map 
+      is a person's point-of-view perception 
+      of their area of interaction. 
+      Although this kind of subject matter would seem most likely 
+      to be studied by fields in the social sciences, 
+      this particular subject is most often studied by modern-day geographers.
+
    MRI
    Magnetic Resonance Imaging
       A visualization technic used in medicine to visualize
