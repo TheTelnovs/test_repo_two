@@ -6,11 +6,17 @@ GLOSSARY
    :sorted:
 
    Mind Map
-      A visualization technic to come up with ideas, topics 
-      or other mental lists. It is supposed to facilitate 
-      creative thinking and reveal "writers block". 
-      At the same time, it has been shown to boost
-      team spirit as is acknoledged to be usefull with teams. 
+      A Mind Map is a diagram for representing tasks, words, concepts, 
+      or items linked to and arranged around a central concept or subject 
+      using a non-linear graphical layout that allows the user 
+      to build an intuitive framework around a central concept. 
+
+      A Mind Map can turn a long list of information 
+      into a colorful, memorable and highly organized diagram 
+      that works in line with your brain's natural way of doing things.
+
+      .. image:: _static/image/vacation-planning-mind-map.jpg
+         :align: center 
 
       In behavioral geography, a mental map 
       is a person's point-of-view perception 
