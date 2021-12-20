@@ -31,6 +31,6 @@ STEP 2. Create ".rst" files
 --------------------------------
 
 Create one .rst file for each section you've come up with 
-during the `mind-mapping <mind_map>`_ and `brain-storm <brain_storm>`_ 
+during the :ref:`mind-mapping <mind_map>` and :ref:`brain-storm <brain_storm>`
 sessions. 
 
