@@ -11,6 +11,7 @@ Welcome to Test Project's documentation!
    :caption: Contents:
 
    section_one
+   section_two
    local_glossary
 
 Indices and tables
