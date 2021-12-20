@@ -14,6 +14,7 @@ GLOSSARY
       A Mind Map can turn a long list of information 
       into a colorful, memorable and highly organized diagram 
       that works in line with your brain's natural way of doing things.
+      [1]_
 
       .. image:: _static/image/vacation-planning-mind-map.jpg
          :align: center 
@@ -38,3 +39,11 @@ GLOSSARY
       a very strong magnetic field. 
       MRI scanners use strong magnetic fields, magnetic field gradients, 
       and radio waves to generate images of the organs in the body.
+      [2]_
+
+
+----
+
+.. [1]  https://www.mindmapping.com/mind-map
+.. [2]  https://www.unimedizin-mainz.de/neuroradiologie/information-for-patients/mrt-magnetic-resonance-tomography.html
+>>>>>>> 0ce09e6 (Added Section 2, added citations (footnotes) in the glossary)
