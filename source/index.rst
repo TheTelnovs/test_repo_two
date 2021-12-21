@@ -13,6 +13,7 @@ Welcome to Test Project's documentation!
 
    section_one
    section_two
+   section_three
    local_glossary
 
 Indices and tables

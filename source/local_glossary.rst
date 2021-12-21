@@ -46,4 +46,4 @@ GLOSSARY
 
 .. [1]  https://www.mindmapping.com/mind-map
 .. [2]  https://www.unimedizin-mainz.de/neuroradiologie/information-for-patients/mrt-magnetic-resonance-tomography.html
->>>>>>> 0ce09e6 (Added Section 2, added citations (footnotes) in the glossary)
+
