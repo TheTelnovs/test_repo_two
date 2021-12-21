@@ -1,5 +1,5 @@
 =========================================
-SECTION ONE: STRUCTURING SPHINX PROJECT
+SECTION I: STRUCTURING SPHINX PROJECT
 =========================================
 
 STEP 1. Identify sections
