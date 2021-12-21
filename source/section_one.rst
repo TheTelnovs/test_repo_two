@@ -1,5 +1,5 @@
 =========================================
-SECTION I: STRUCTURING SPHINX PROJECT
+SECTION I. STRUCTURING SPHINX PROJECT
 =========================================
 
 STEP 1. Identify sections
@@ -28,7 +28,7 @@ It's fun and it's a team-building activity.
 
 
 STEP 2. Create ".rst" files
---------------------------------
+=============================
 
 Create one .rst file for each section you've come up with 
 during the :ref:`mind-mapping <mind_map>` and :ref:`brain-storm <brain_storm>`

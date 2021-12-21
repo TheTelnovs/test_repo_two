@@ -18,7 +18,7 @@ resolve merging conflicts when a new Pull Request
 has clashing edits with current text in the "main" branch.
 
 
-Step 2. Identify a team of document editors
+STEP 2. Identify a team of document editors
 =============================================
 
 Document editors (futher, editors) are a group of co-authors
