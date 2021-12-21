@@ -8,6 +8,7 @@ Welcome to Test Project's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
    :caption: Contents:
 
    section_one
