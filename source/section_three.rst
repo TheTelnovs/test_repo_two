@@ -1,5 +1,5 @@
 =====================================================
-SECTION 2. BRAIN ACTIVITY DURING MIND MAPPING
+SECTION III. BRAIN ACTIVITY DURING MIND MAPPING
 =====================================================
 
 Functional MRT
