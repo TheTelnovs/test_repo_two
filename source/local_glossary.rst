@@ -6,11 +6,18 @@ GLOSSARY
    :sorted:
 
    Mind Map
-      A visualization technic to come up with ideas, topics 
-      or other mental lists. It is supposed to facilitate 
-      creative thinking and reveal "writers block". 
-      At the same time, it has been shown to boost
-      team spirit as is acknoledged to be usefull with teams. 
+      A Mind Map is a diagram for representing tasks, words, concepts, 
+      or items linked to and arranged around a central concept or subject 
+      using a non-linear graphical layout that allows the user 
+      to build an intuitive framework around a central concept. 
+
+      A Mind Map can turn a long list of information 
+      into a colorful, memorable and highly organized diagram 
+      that works in line with your brain's natural way of doing things.
+      [1]_
+
+      .. image:: _static/image/vacation-planning-mind-map.jpg
+         :align: center 
 
       In behavioral geography, a mental map 
       is a person's point-of-view perception 
@@ -21,15 +28,22 @@ GLOSSARY
 
    MRI
    Magnetic Resonance Imaging
-      A visualization technic used in medicine to visualize
-      organs and tissues based on properties of atoms 
-      making up organs. 
       Magnetic resonance imaging is a medical imaging technique 
       used in radiology to form pictures of the anatomy 
       and the physiological processes of the body. 
 
+      It demonstrates very small differences of contrast 
+      between different tissues. MRT uses information of 
+      hydrogen nuclei (protons) which are exitated (and responding) 
+      by a high frequency radio wave pulse in the presence of 
+      a very strong magnetic field. 
       MRI scanners use strong magnetic fields, magnetic field gradients, 
       and radio waves to generate images of the organs in the body.
- 
+      [2]_
 
+
+----
+
+.. [1]  https://www.mindmapping.com/mind-map
+.. [2]  https://www.unimedizin-mainz.de/neuroradiologie/information-for-patients/mrt-magnetic-resonance-tomography.html
 
